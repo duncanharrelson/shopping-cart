@@ -1,7 +1,7 @@
 //Stripe keys
 
 //Stripe test key
-const stripe_key = "sk_test_51O4ri0Hfk6TyDeClXsavHZ9Gp2ULD6C9RSif4hhtIuCfjc6wK8tsmi4yrwlr3gkkXmy3LOhBGUyGRYJVCShvjUWt00RzuTg4IO"
+const stripe_key = "YOUR_STRIPE_KEY"
 
 //product test keys.  used in src/productsStore.js
 // Coffee: price_1O4rmJHfk6TyDeClLTYv0sSb
