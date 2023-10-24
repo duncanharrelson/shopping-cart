@@ -1,3 +1,6 @@
+#Shopping cart application that utilized Stripe for payment processing as well as a dynamically updating frontend using React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
